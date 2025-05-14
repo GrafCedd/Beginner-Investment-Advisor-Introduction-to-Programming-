@@ -1,0 +1,122 @@
+QUESTIONNAIRE = [
+    {"id": 0, "text": "Why are you investing? Choose the goal that best fits you:",
+     "options": [
+         "Grow my wealth over time — e.g., for retirement or building long-term savings",
+         "Earn regular income — e.g., through dividends or interest",
+         "Keep my money safe — e.g., avoiding losses and protecting savings",
+         "Save for something specific — e.g., a house, a car, education, or a trip"
+     ]},
+    
+    {"id": 1, "text": "When might you need this money?",
+     "options": [
+         "Less than 1 year — e.g., vacation or emergency fund",
+         "1–3 years — e.g., house deposit or wedding",
+         "3–5 years — e.g., home upgrade, education, or business",
+         "5–10 years — e.g., children's education or relocation",
+         "More than 10 years — e.g., retirement or long-term goals"
+     ]},
+    
+    {"id": 2, "text": "How would you feel if the value of your investments went down (felt like losing money)?",
+     "options": [
+         "Very uncomfortable — I’d worry a lot if I saw a loss",
+         "Somewhat uncomfortable — I’d be uneasy, but might wait it out",
+         "Neutral — I’d try not to react emotionally",
+         "Somewhat comfortable — I understand losses happen in the short term",
+         "Very comfortable — I expect drops and see them as opportunities"
+     ]},
+    
+    {"id": 3, "text": "If your investments dropped 20% in a year, what would you do?",
+     "options": [
+         "Sell everything",
+         "Sell some investments",
+         "Do nothing and wait",
+         "Buy more while prices are low"
+     ]},
+    
+    {"id": 4, "text": "What return do you hope to earn each year (on average)?",
+     "options": [
+         "Less than 2%",
+         "2–5%",
+         "5–8%",
+         "8–12%",
+         "More than 12%"
+     ]},
+    
+    {"id": 5, "text": "How important is it for you to be able to get your money out fast?",
+     "options": [
+         "Very important",
+         "Somewhat important",
+         "Not very important",
+         "Not important at all"
+     ]},
+    
+    {"id": 6, "text": "Have you ever done anything related to investing? Choose what fits best:",
+     "options": [
+         "None at all — I’ve never invested or followed financial news",
+         "Less than 1 year — I’ve started recently or invested in a savings account or simple product",
+         "1–3 years — I’ve bought things like ETFs, mutual funds, or stocks and read about investing",
+         "More than 3 years — I’ve invested in different products and regularly follow markets"
+     ]},
+    
+    {"id": 7, "text": "How much of your total savings are you planning to invest?",
+     "options": [
+         "Less than 10%",
+         "10–25%",
+         "25–50%",
+         "50–75%",
+         "More than 75%"
+     ]},
+    
+    {"id": 8, "text": "Which best fits your investment style? (More reward usually means more risk)",
+     "options": [
+         "I want to protect my money",
+         "I want a balance of safety and growth",
+         "I can accept some losses for gains",
+         "I want the highest growth, even with risk"
+     ]},
+    
+    {"id": 9, "text": "How steady is your income? Think about your job, business, or retirement income.",
+     "options": [
+         "Very stable",
+         "Somewhat stable",
+         "Uncertain",
+         "Likely to go down"
+     ]},
+    
+    {"id": 10, "text": "Do you expect any big expenses soon? (e.g., car, home, medical, education, etc.)",
+     "options": [
+         "Yes",
+         "No"
+     ]},
+    
+    {"id": 11, "text": "How much of your money is already in cash or savings accounts?",
+     "options": [
+         "None",
+         "Less than 10%",
+         "10–25%",
+         "25–50%",
+         "More than 50%"
+     ]},
+    
+    {"id": 12, "text": "If something you invested in didn’t grow or even lost value for six months (underperformed), how would you react?",
+     "options": [
+         "Sell it immediately",
+         "Re-evaluate whether to keep it",
+         "Hold on and wait for recovery",
+         "Buy more while the price is low"
+     ]},
+    
+    {"id": 13, "text": "Would you like your investments to consider environmental, social, or ethical factors (ESG)?",
+     "options": [
+         "Yes",
+         "No",
+         "Not sure"
+     ]},
+    
+    {"id": 14, "text": "Would you ever borrow money to invest more (called “using margin”)? Example: You invest €1,000 and borrow €1,000 extra. If your investment grows, you earn more — but if it falls, you lose more, even your own money.",
+     "options": [
+         "Never",
+         "Only if a professional advised me",
+         "Yes, I’d be comfortable with that"
+     ]}
+]
