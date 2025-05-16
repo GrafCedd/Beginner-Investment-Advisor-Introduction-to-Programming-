@@ -3,5 +3,7 @@ This Python‑based tool is designed to guide absolute beginners through a  frie
 
 **Overview and Explanation**
 README.md  <-- Project overview
-MertCodev1 <-- Original logic from Mert
+
+MertCodev1 <-- Back-end code
+
 app.py     <-- Streamlit interface
