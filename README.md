@@ -8,3 +8,8 @@ README.md  <-- Project overview
 MertCodev1 <-- Back-end code
 
 app.py     <-- Streamlit interface
+
+
+**Install dependencies:**
+
+`pip install -r requirements.txt`
